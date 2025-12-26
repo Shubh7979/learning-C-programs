@@ -18,4 +18,6 @@ int main(){
 	printsub(77,57);
 	printmulti(12,99);
 	printdiv(25,5);
+	
+	return 0;
 } 

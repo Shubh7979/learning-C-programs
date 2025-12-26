@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(){
-	i[]= 456;
+	int i= 456;
 
-	for (i;i<3;i++){
-		printf("SUM: %d",i);
+	do{
+		printf
 	}
 	
 	return 0;
